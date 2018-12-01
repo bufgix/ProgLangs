@@ -3,7 +3,7 @@
 ## Nedir ?
 James Gosling (Sun Microsystems Engineer) tarafından geliştirilen 1995 yılında piyasaya sunulan object-oriented, open source, step by step ve high level programlama dili ve bilgi işlem platformudur.
 
-## Nelerde Kullanılır?
+## Nerelerde Kullanılır?
 İstatistik olarak bahsedecek olursak şirket bilgisayarlarının %97'sinde JAVA kullanılır, oyun konsollarında, veri depolama merkezlerinde, cep telefonlarında, akıllı TV'lerde ve blu-ray disklerde kullanılır. JAVA ile örneklere değinecek olursak, Google'ın yazıldığı dil Python olarak bilinse de JAVA da kullanılmıştır. Google'ın alt uygulamalarının büyük bir kısmı da JAVA ile yazılmıştır.
 
 ## Sektördeki Yeri
