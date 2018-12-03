@@ -12,7 +12,7 @@ Tarihçesine ve tüm diğer kaynaklara wikipedia üzerinden erişebilirsiniz.
 adını aldı ve ECMAScript 2 1998’de, ECMAScript 3 ise 1999 yılında geldi.  Son olarak ECMAScript6 ile birlikte JavaScript masaüstü, mobil, sunucu programlama gibi farklı alanlara adeta bir _kanser_ gibi yayıldı 
 
 Sadece 20 yıl içerisinde ilkel bir dil halinden dünyanın [en popular dili](https://insights.stackoverflow.com/survey/2018/#most-popular-technologies) olmayı başaran bu dilin kullandığınız hangi uygulamalarda var olduğunu merak ediyorsanız: 
- https://electronjs.org/apps(sadece bir frameworkünü kullanan uygulamalar)
+ https://electronjs.org/apps (sadece bir frameworkünü kullanan uygulamalar)
 
 ## Nerelerde kullanılır
 Javascript genel olarak web sayfalarını dinamik hale getimek için kullanılır(dı). Ama Javascript gelişen teknolojilere ayak uydurarak masaüstü programlama, sunucu programlama, mobil programlama gibi oldukça büyük kullanım alanına sahip olmuştur. Bunların dışında Unity oyun motorunda Javascript ile kodlama yapılabilyor.
