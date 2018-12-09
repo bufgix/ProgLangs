@@ -41,7 +41,7 @@ Sektörde yeri çok yeni olmasına rağmen hızlı bir yükseliş gösterdiğini
 (DSL: Domain Specific Language - Belirli bir çözüm için belirlenmiş programlama dili)
 
 ## Yararlı Linkler
- http://kotlinlang.org
- https://kotlinlang.org/docs/tutorials/
+- http://kotlinlang.org
+- https://kotlinlang.org/docs/tutorials/
 
 
