@@ -17,7 +17,7 @@ Sadece 20 yıl içerisinde ilkel bir dil halinden dünyanın [en popular dili](h
 ## Nerelerde kullanılır
 Javascript genel olarak web sayfalarını dinamik hale getimek için kullanılır(dı). Ama Javascript gelişen teknolojilere ayak uydurarak masaüstü programlama, sunucu programlama, mobil programlama gibi oldukça büyük kullanım alanına sahip olmuştur. Bunların dışında Unity oyun motorunda Javascript ile kodlama yapılabilyor.
 
-## Sekrördeki yeri
+## Sektördeki yeri
 Web programcısı olmak istiyorsanız kesinlikle Javascript öğrenmelisiniz. Pek çok şirket Frot-end'ci işe almak isterse Javascript bilgisini sormaktadır.
 
 ## Frameworkler
