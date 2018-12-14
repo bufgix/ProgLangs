@@ -2,12 +2,12 @@
 
 ## Nedir?
 
-C#, Microsoft tarafından geliştirilen .NET Framework üzerinde çalışan uygulamalar geliştirmeye yarayan type-safe nesne tabanlı bir programlama dilidir. C#, C syntaxını kullanır. C# dilinin, Microsoft tarafından geliştirilmekte Visual Studio adında bir IDE'si vardır. İçinde gelişmiş hata ayıklama özellikleri, kapsamlı test araçları ve gelişmiş uzantı desteği olduğu için geliştirme yapmayı oldukça kolaylaştırır.
+C#, Microsoft tarafından geliştirilen .NET Framework üzerinde çalışan uygulamalar geliştirmeye yarayan type-safe nesne tabanlı bir programlama dilidir. C#, C syntaxını kullanır. C# dilinin, Microsoft tarafından geliştirilmekte olan Visual Studio adında bir IDE'si bulunmaktadır. İçinde gelişmiş hata ayıklama özellikleri, kapsamlı test araçları ve gelişmiş uzantı desteği olduğu için geliştirme sürecini oldukça kolaylaştırmaktadır.
 
 ## Nerelerde Kullanılır?
 
   - Masaüstü Uygulamalarda
-    Genelde Window üzerinde geliştirme yapılsa da .NET Core sayesinde Mac OS ve GNU/Linux için de uygulama geliştirilebilir
+    (Genelde Windows üzerinde geliştirme yapılsa da .NET Core sayesinde Mac OS ve GNU/Linux için de uygulama geliştirilebilir.)
   - Web Uygulamalar (ASP.NET)
   - Oyun Geliştirme (Unity)
   - Mobil Uygulamalar (Xamarin)

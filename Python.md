@@ -37,7 +37,7 @@ print("Hello Word")
 Görüldüğü üzere Pythonun diğer dillere göre daha az satır kod ile daha fazla işlem yapılabiliyor olsa da bu kolay yazım, Pythonun derlenen dillere göre daha yavaş olmasını sağlıyor.
 ![http://gwan.ch/benchmark/babel.html](https://i.resimyukle.xyz/CyaRKS.png)
 
-Ama bu yavaşlık gercekten hıza ihtiyacınız yoksa yazım kolaylığı için kabul edilebilirbir bir değerdir.
+Ama bu yavaşlık gerçekten hıza ihtiyacınız yoksa yazım kolaylığı için kabul edilebilir bir değerdir.
 
 ## Nerelerde kullanılır?
  - Web Uygulamaları
@@ -56,7 +56,7 @@ Ama bu yavaşlık gercekten hıza ihtiyacınız yoksa yazım kolaylığı için 
 	- Socket
 	- Twisted
 ## Sektörde yeri
-Google, Youtube, Yahoo gibi kuruluşlar Python programcılarına her zaman ihtiyaç duymaktadır. Yurtdışında oldukça popülerdir. Ülkemiz için ilgi biraz az olsada starup şirketler bolca kullanır Python'u. Ayrıca ülkemize Python üniversitelerin müfedatlarna yavaş yavaş giremektedir bu durumu Python'un ülkemizdeki konumu için iyiye işaret sayabiliriz.
+Google, Youtube, Yahoo gibi kuruluşlar Python programcılarına her zaman ihtiyaç duymaktadır. Yurt dışında oldukça popülerdir. Ülkemiz için ilgi biraz az olsada starup şirketler bolca kullanır Python'u. Ayrıca ülkemize Python üniversitelerin müfredatlarna yavaş yavaş giremektedir bu durumu Python'un ülkemizdeki konumu için iyiye işaret sayabiliriz.
 # Yararlı Linkler
 Pythonu bize göre en iyi anlatan kaynak: [Python3 İztihza(Yazbel) PDF](https://belgeler.yazbel.com/python-istihza.pdf)
 Youtube oynatma listesi: https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR

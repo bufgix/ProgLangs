@@ -11,6 +11,6 @@ Simple Programmer'ın verilerine göre 2018'in Top10'una girememiştir. Lisp ne 
 
 * KPAX-> En bilinenlerden sunucu frameworküdür.
 
-Tavsiyem programlamaya başlayacaksanız eğer tercih diğer dillere oranla tercih etmeniz daha düşük olsun :)
+(Tavsiye) Programlamaya başlayacaksanız eğer diğer dillere oranla tercih etmeyin :)
 
 [Lisp Tutorial](https://www.tutorialspoint.com/lisp/)
